@@ -18,7 +18,7 @@ camera.position.z = distance;
 
 const zoom = 1;
 
-const chickenSize = 1000;
+const chickenSize = 60;
 
 const positionWidth = 42;
 const columns = 17;
