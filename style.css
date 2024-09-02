@@ -38,7 +38,7 @@ button {
   align-items: flex-end;
   justify-content: center;
 }
-# controlls div {
+#controlls div {
   display: grid;
   grid-template-columns: 50px 50px 50px;
   grid-template-rows: auto auto;
